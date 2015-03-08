@@ -32,7 +32,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="B3D046ED:4CA2:A9C48FB:54FBEF1F" name="octolytics-dimension-request_id" /><meta content="4503731" name="octolytics-actor-id" /><meta content="danilotl" name="octolytics-actor-login" /><meta content="051332a4fe0068ce8c45ad1e03f3b45c6fcbdec8c5269708df62124206050d9b" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="B3D046ED:525F:673E3F4:54FBF063" name="octolytics-dimension-request_id" /><meta content="4503731" name="octolytics-actor-id" /><meta content="danilotl" name="octolytics-actor-login" /><meta content="051332a4fe0068ce8c45ad1e03f3b45c6fcbdec8c5269708df62124206050d9b" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -41,7 +41,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="iaC9ZbleXUSP1NoKWkWkjtSUThqghMKSdJAFhsUpja5RdJAoAQJUScfCoKBDtfpiE3Ap7kr6aNeCDVjSpab7LA==" name="csrf-token" />
+<meta content="6Mt3QnYhFzDSz+66tqpnv6dtJObm0THLN/GpLO7kqeAB7BaLCUM6ikjWCusHggK1UQyzVnY8riwos0pSZ/mjAA==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-921a6618ae7b229a43ce137ab55010494d47d2a597128a4f98e2c781a05d581b.css" media="all" rel="stylesheet" />
     <link href="https://assets-cdn.github.com/assets/github2-d3cfa727de9d78100769b0dc45d2783949e6b662ac84d36e8f51dd103f790e4a.css" media="all" rel="stylesheet" />
@@ -161,7 +161,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fnVDSNeUBoiG6dtwFRgZzf17Z/QlMtlA1R+S/1r4KMD0x7ZI+m0jI0KFlMZRGrGHehNC5wyzlCZJKTXW2fLJpA==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1O3MRJ2GAKBLtncGKmAU8vr3JYepQn+Ku6wNJQlMvqF9TqSsDua95FZj8+KG6MeL8wIqHWMEc48Bo6Rg/ZFHuw==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -190,7 +190,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Zb/3w4W6f7WFXuH9tTMwBp6GFiNWuXYrVqbrUNhXl8AhHSKTq+iw6RdbLpy2CdR1sGVbrhNYlnlrQnEkGMws8w==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="19666546" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="d4rsXJwmNWhZhnnhO3rs1MUoy2RCazmtLxQo4Am5ii42Lq709vTYykUhnM6NICL8fpKqxthLUEUGevhbBlou9w==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="19666546" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a class="social-count js-social-count" href="/semenoffalex/Exploratory-Data-Analysis/watchers">
@@ -265,7 +265,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/semenoffalex/Exploratory-Data-Analysis/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="m313BSYc/57TwTvSEdpQNAHQvcXHaJVC5qCCSua3d45m7AZgI5T6a7aV9r6qQeVyOMw5RoCBzMTehdlMMN7Opg==" /></div>
+    <form accept-charset="UTF-8" action="/semenoffalex/Exploratory-Data-Analysis/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TIPa1LoHdWWfMk8ovn6P5Z6P+EcjHoaV/8/bIJw5LhUecdz8JKvEU7rZ7Kmkr7J7O/fG5CCO3hX+6vW3DOMHWA==" /></div>
       <button
         class="minibutton with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar semenoffalex/Exploratory-Data-Analysis">
@@ -276,7 +276,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/semenoffalex/Exploratory-Data-Analysis/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4eFK2k7pTRnYE8Z/4nx0VrJU9dX9vDNTWPnGPl5qNxohOtiHQzod1zlpYrsXVwdzmiFA1VN9TBJX3Yz1SqWD7Q==" /></div>
+    <form accept-charset="UTF-8" action="/semenoffalex/Exploratory-Data-Analysis/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="l5oOYMHUQtxUCBxg8H480poOPYWHkgA72pNJuuJNcvzr+6MXANdCpzd9EKrtg4YVsIqv7/lw1i296ccJkIVGeg==" /></div>
       <button
         class="minibutton with-count js-toggler-target"
         aria-label="Star this repository" title="Star semenoffalex/Exploratory-Data-Analysis">
@@ -575,7 +575,7 @@
         </a>
 
 
-          <form accept-charset="UTF-8" action="/semenoffalex/Exploratory-Data-Analysis/delete/master/plot1.png" aria-label="Fork this project and delete file" class="tooltipped tooltipped-s inline-form delete-file-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4WXIz5FsqrXgsNWKVX6fk4Jw/d7SaW6M6iiUD7X7ob8m5AFXjgdNn4gLp5pzqpH26cR4myf2gYENNRgBulcwZQ==" /></div>
+          <form accept-charset="UTF-8" action="/semenoffalex/Exploratory-Data-Analysis/delete/master/plot1.png" aria-label="Fork this project and delete file" class="tooltipped tooltipped-s inline-form delete-file-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cPlOFuGf0TM/zWG3aPm7qbiMcNEdJf89alaENAtHV9U2QOrwKJuPLYVl4v9PKnSDluYPsnebGwCr/DeJ3QVwCQ==" /></div>
             <button class="web-edit-button"
                     type="submit"
                     data-disable-with>
@@ -627,7 +627,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.04837s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.04816s from github-fe134-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
